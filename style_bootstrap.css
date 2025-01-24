@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar-nav .nav-link{
+    color: white;
+}
+.navbar-brand img{
+    border-radius: 50%;
+}
+
+.navbar-nav .nav-item {
+    margin-right: 20px; /* Adds space between items */
+}
+
+/* BANNER SECTION */
+#banner{
+    background-color: #DC3545;
+    color: #fff;
+    padding-top: 4%;
+}
+.bt-img1{
+    width: 100%;
+}
+.text-block h3, .text-block h1 {
+    margin-left: 100px; /* Move text to right */
+    margin-top: 50px; /* Move text down */
+}
